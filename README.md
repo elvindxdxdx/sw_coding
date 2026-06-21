@@ -16,5 +16,5 @@
 
 -세부 이행 일정의 단계를 완료했다면 그 단계를 클릭하면 옆의 과제 진행률이 상승합니다.
 
-[추천서 작성기 사용하는 곳] (https://elvindxdxdx.github.io/sw_coding/)
+[DoItNow 사용하는 곳] (https://elvindxdxdx.github.io/sw_coding/)
 
